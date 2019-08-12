@@ -1,6 +1,7 @@
 ;Subtract
 ;swaraj pal
 ;Roll : 35000117024
+;subtraction
 
 jmp start
 
